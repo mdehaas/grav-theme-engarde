@@ -1,0 +1,14 @@
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - 'user://themes/en-garde'
+         - 'user://themes/bootstrap4'
+
+navbar_style: navbar-light
+#navbar_bgcolor: #fff
+
+dropdown:
+  enabled: true

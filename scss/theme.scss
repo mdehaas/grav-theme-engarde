@@ -1,0 +1,32 @@
+// REQUIRED DEPENDENCIES - DO NOT CHANGE
+
+// Load Third Party Libraries
+@import "../../bootstrap4/scss/vendor/bourbon/bourbon";
+
+@import "../../bootstrap4/scss/theme/mixins/breakpoints";
+
+//-------------------------------------------
+
+// THEME COMPONENTS
+@import "../../bootstrap4/scss/theme/variables";
+
+@import "../../bootstrap4/scss/theme/typography";
+
+@import "../../bootstrap4/scss/theme/animation";
+
+@import "../../bootstrap4/scss/theme/default";
+
+@import "../../bootstrap4/scss/theme/hero";
+
+@import "../../bootstrap4/scss/theme/blog";
+
+@import "../../bootstrap4/scss/theme/fixes";
+
+@import "../../bootstrap4/scss/theme/modular/all";
+
+@import "../../bootstrap4/scss/theme/login";
+
+//-------------------------------------------
+
+// CUSTOM COMPONENTS
+@import "theme/custom";
